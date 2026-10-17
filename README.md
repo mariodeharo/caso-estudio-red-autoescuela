@@ -1,7 +1,7 @@
 # Caso de Estudio: Modernización de Infraestructura IT y Red (Entorno Multi-sede)
 
 ## 1. Contexto del Proyecto
-Infraestructura compuesta por **2 sedes físicas** y aproximadamente **40 puestos de usuario** (aulas informatizadas de alumnos y puestos de administración). El entorno presentaba cortes de conectividad WiFi por saturación del router del ISP, fallos recurrentes en los sistemas operativos de las aulas y dependencia crítica de un software de gestión obsoleto (PONS) incompatible con entornos modernos.
+Infraestructura compuesta por **2 sedes físicas** y aproximadamente **50 puestos de usuario** (aulas informatizadas de alumnos y puestos de administración). El entorno presentaba cortes de conectividad WiFi por saturación del router del ISP, fallos recurrentes en los sistemas operativos de las aulas y dependencia crítica de un software de gestión obsoleto (PONS) incompatible con entornos modernos.
 
 ## 2. Soluciones Implementadas
 
